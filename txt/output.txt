@@ -1,0 +1,2 @@
+Day la nhung gi ta biet ve avocado: ${textIn}.
+Duoc dang vao ngay ${Date.now()}
